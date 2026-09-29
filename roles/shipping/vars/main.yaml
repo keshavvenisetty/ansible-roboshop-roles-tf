@@ -1,0 +1,4 @@
+CART_HOST: cart.vkr01.shop
+MYSQL_HOST: mysql.vkr01.shop
+MYSQL_ROOT_PASSWORD: RoboShop@1
+MYSQL_ROOT_USER: root

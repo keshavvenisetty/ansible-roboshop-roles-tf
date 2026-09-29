@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.vkr01.shop
+USER_HOST: user.vkr01.shop
+CART_HOST: cart.vkr01.shop
+SHIPPING_HOST: shipping.vkr01.shop
+PAYMENT_HOST: payment.vkr01.shop
